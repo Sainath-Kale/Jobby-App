@@ -1,3 +1,8 @@
+<h1>Login Details</h1>
+<p>Username: rahul</p>
+<p>Password: rahul@2021</p>
+<hr>
+
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
